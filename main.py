@@ -1,4 +1,4 @@
-import pandas as pd     
+import pandas as pd
 
 
 pessoas = ['Vitor', 'Lucas', 'Guilherme', 'Lima'] #define a lista de devedores
